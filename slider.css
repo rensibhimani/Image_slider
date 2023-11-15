@@ -15,8 +15,7 @@ h2{
     color: rgb(39, 48, 46);
 }
 .gallery{
-    
-    width: 500px;
+    width: 400px;
     display: flex;
     overflow-x: scroll;
 }
